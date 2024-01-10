@@ -27,7 +27,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JalaSrinidhi&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+
 
 
 
